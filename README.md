@@ -4,7 +4,7 @@ Original Paper: [Link](https://github.com/SuperBruceJia/MonotonicIQA/blob/main/%
 
 Proof of the Transformer: [Link](https://github.com/SuperBruceJia/MonotonicIQA/blob/main/%5BProof%5D%20Proof%20of%20the%20Transformer.pdf)
 
-<img width="1439" alt="image" src="https://user-images.githubusercontent.com/31528604/214560274-9be8f403-4265-4737-b66d-58d4635cc789.png">
+<img width="1600" alt="image" src="https://github.com/SuperBruceJia/MonotonicIQA/blob/main/Fig/Fig2.png">
 
 # Requirements:
 
