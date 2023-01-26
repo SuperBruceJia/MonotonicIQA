@@ -18,13 +18,17 @@ Successfully tested on Ubuntu 20.04
 
 # Usage
 
-## Sampling images from each datasets(Matlab)
+Sampling images from each datasets(Matlab)
 
+```shell
 sample_name.m
+```
 
-## Mixing all the sampled images (Matlab)
+Mixing all the sampled images (Matlab)
 
+```shell
 combine_pmtrain.m
+```
 
 ## Train on the mixed datasets for 10 sessions
 
@@ -40,4 +44,6 @@ python Main.py --train False --get_scores True
 
 ## Result analysis
 
-Compute weighted PLCC/SRCC: calculate_mean.m
+```shell
+calculate_mean.m
+```
