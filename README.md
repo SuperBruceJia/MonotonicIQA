@@ -50,6 +50,9 @@ Original Paper: [Link](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1
 Proof of the Transformer: [Link](https://github.com/SuperBruceJia/MonotonicIQA/blob/main/%5BProof%5D%20Proof%20of%20the%20Transformer.pdf)
 
 ## Citation
+If you find our work useful in your research, please consider citing it in your publications. 
+We provide a BibTeX entry below.
+
 ```bibtex
 @article{feng2023learning,
   title     = {Learning from Mixed Datasets: A Monotonic Image Quality Assessment Model},
