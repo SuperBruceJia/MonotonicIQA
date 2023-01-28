@@ -52,13 +52,13 @@ Proof of the Transformer: [Link](https://github.com/SuperBruceJia/MonotonicIQA/b
 ## Citation
 ```bibtex
 @article{feng2023learning,
-  title={Learning from Mixed Datasets: A Monotonic Image Quality Assessment Model},
-  author={Feng, Zhaopeng and Zhang, Keyang and Jia, Shuyue and Chen, Baoliang and Wang, Shiqi},
-  journal={IET Electronics Letters},
-  volume={59},
-  number={3},
-  pages={e12698},
-  year={Jan. 2023},
-  publisher={Wiley Online Library}
+  title     = {Learning from Mixed Datasets: A Monotonic Image Quality Assessment Model},
+  author    = {Feng, Zhaopeng and Zhang, Keyang and Jia, Shuyue and Chen, Baoliang and Wang, Shiqi},
+  journal   = {IET Electronics Letters},
+  volume    = {59},
+  number    = {3},
+  pages     = {e12698},
+  year      = {Jan. 2023},
+  publisher = {Wiley Online Library}
 }
 ```
